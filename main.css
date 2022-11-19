@@ -1,0 +1,232 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
+a{
+    text-decoration: none;
+}
+.ul .li{
+    display: inline;
+    list-style: none;
+}
+.width{
+    width: 100vw;
+    height: 10vh;
+    background-color: #f8f9fa;
+}
+.kvadrat{
+    width: 80%;
+    height: 100%;
+    background-color: #f8f9fa;
+    margin: 0 auto;
+}
+.white{
+    color: white;
+
+}
+.f-left{
+    float: left;
+
+}
+.f-right{
+    float: right;
+}
+.margin-btn{
+    margin: 8px 0 0 0;
+}
+.btn{
+    width: 3cm;
+    height: 1.4cm;
+    background-color: #0d6efd;
+    border: none;
+    border-radius: 0.25rem;
+}
+.img{
+    width: 100%;
+    height: 700px;
+    background-image: url(/images1/morskoj-priboj-volny-ch-rnogo-morya.jpg);
+}
+.kv{
+    width: 11cm;
+    height: 4cm;
+   padding: 20% 0 0 40%;
+   font-size: 45px;
+}
+.email{
+    width: 10cm;
+    height: 1.4cm;
+    margin:0 0 0 35% ;
+    border: none;
+    border-radius: 0.25rem;
+    font-size: 20px;
+}
+.center{
+    text-align: center;
+
+}
+.section{
+    width: 100vw;
+    height: 60vh;
+    background-color: #f8f9fa;
+}
+.new-section{
+    width: 80%;
+    height: 100%;
+    background-color: #f8f9fa;
+    margin: 0 auto;
+}
+.icon{
+    width: 9cm;
+    height: 7cm;
+    background-color: #f8f9fa;
+    
+}
+.size{
+    font-size: 95px;
+    color: #0d6efd;
+}
+.padding-ilk{
+  padding: 14px 0 0  0;  
+}
+.padding{
+    padding: 0 0 0 10%;
+}
+.size-1{
+    font-size: 30px;
+    color: #0d6efd;
+}
+.reng{
+    color: #0d6efd;
+}
+.padding-1{
+    padding: 0 10% 0 0;
+}
+.txt{
+    text-align: start;
+}
+.margin{
+   margin:90px 0 0 30px;
+}
+.margin-2{
+    margin:90px 0 0 140px ;
+}
+.margin-1{
+    margin:90px 0 0 0 ;
+}
+.section-1{
+    width: 100vw;
+    height: 70vh;
+    background-color: #f8f9fa;
+}
+.new-section-1{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    margin: 0 auto;
+}
+.icon-1{
+    width: 10cm;
+    height: 7cm;
+    background-color: white;
+    
+
+}
+.size-2{
+    font-size: 35px;
+    color: #0d6efd;
+}
+.img-1{
+    width: 18cm;
+    height: 70vh;
+}
+.section-2{
+    width: 100vw;
+    height: 71vh;
+    background-color: white;
+
+}
+.new-section-2{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: white;
+}
+.img-2{
+    width:18.2cm ;
+    height: 70vh;
+}
+.section-3{
+    width: 100vw;
+    height: 70vh;
+    background-color: white;
+
+}
+.new-section-3{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+   
+
+}
+.img-3{
+    width: 18.cm;
+    height: 70vh;
+}
+.section-4{
+    width: 100vw;
+    height: 70vh;
+    background-color: #f8f9fa;
+
+}
+.new-section-4{
+    width: 80%;
+    height: 100%;
+    background-color: #f8f9fa;
+    margin: 0 auto;
+}
+.padding-2{
+    padding: 70px 0 0 400px;
+}
+.img-4{
+    width: 5cm;
+    height: 5cm;
+    border-radius: 50%;
+   ;
+}
+.img-margin{
+    margin: 0 0 0 25px
+}
+.img-margin-1{
+    margin: 0 0 0 170px
+}
+.padding-fred{
+    padding:0 0 0 130px ;
+}
+.end{
+    width: 100vw;
+    height: 50vh;
+    background-image: url(/images1/sea.jpg);
+    
+}
+.size-3{
+    font-size: 35px;
+    color: white;
+    padding: 10% 0 0 0;
+}
+.section-5{
+    width: 100vw;
+    height: 20vh;
+    background-color: #f8f9fa ;
+}
+.new-section-5{
+    width: 80%;
+    height: 100%;
+    background-color: #f8f9fa;
+    margin: 0 auto;
+
+}
+padding-end{
+    margin: 0 5px 0 0;
+}
